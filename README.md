@@ -3,7 +3,7 @@ NAME : DEVA DHARSHINI I
 
 REGISTER NUMBER: 212223240026
 
-DEPT: AIML
+DEPARTMENT: AIML
 
 ## Aim:
 To write a python program to circulate the n variables using function concept
